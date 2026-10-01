@@ -1,0 +1,37 @@
+# Tests
+
+## Test 1 - Explore portfolio and open résumé [sanity]
+Viewport: desktop
+Covers: primary portfolio navigation, Xiaomi internship visibility, project discovery, UCL Simulator/Relay live project/Workload archive/Figma/publication/ISSDC links, résumé PDF link
+Description: Verifies the main browsing flow lets a visitor reach project content and open the résumé PDF.
+
+Steps:
+1. Confirm the homepage highlights Xiaomi as a Frontend Engineer Internship
+2. Click the "Projects" navigation link, confirm UCL Simulator, Relay Resale Ledger, Waterloo Workload Calculator, FitFuel, AI & UI Design, and Space Settlement Design are visible, and verify the UCL live-simulator, Relay live-project, Workload archive, Figma, publication, ISSDC official-site, and winning-certificate buttons are present
+3. Click the "Résumé" link in the header
+
+Expected: The Xiaomi internship is clearly visible; UCL Simulator and Relay expose live-project links; the Workload project has an archive link; FitFuel, AI & UI Design, and Space Settlement Design expose their supporting links; and the résumé PDF opens in a new tab.
+
+## Test 2 - View profile photo and contact Roxanna
+Viewport: desktop
+Covers: hero profile photo, current academic summary, contact section, email call-to-action
+Description: Verifies the personal photo is displayed and a visitor can find the primary contact option.
+
+Steps:
+1. Load the portfolio homepage
+2. Confirm Roxanna's profile photo is visible and the page shows an 88.4% cumulative average
+3. Navigate to the Contact section and confirm the Waterloo email address is visible
+
+Expected: The hero displays the profile photo unobstructed, the academic summary shows the current 88.4% cumulative average, and the contact section provides a working email call-to-action.
+
+## Test 3 - Mobile responsive browsing
+Viewport: mobile
+Covers: mobile layout, responsive hero photo, project cards, résumé access
+Description: Verifies the portfolio remains readable and usable on a phone-sized viewport with the restored assets.
+
+Steps:
+1. Load the page on mobile
+2. Scroll from the hero photo through the project cards
+3. Tap the header résumé link
+
+Expected: Content remains readable without horizontal overflow, the profile photo is unobstructed and fits the mobile layout, project cards stack vertically, and the résumé PDF link remains accessible.
