@@ -6,7 +6,7 @@ Covers: primary portfolio navigation, Xiaomi internship visibility, project disc
 Description: Verifies the main browsing flow lets a visitor reach project content and open the résumé PDF.
 
 Steps:
-1. Confirm the homepage highlights Xiaomi as a Frontend Engineer Internship
+1. Confirm the homepage highlights Xiaomi as a Frontend Engineering Internship
 2. Click the "Projects" navigation link, confirm UCL Simulator, Relay Resale Ledger, Waterloo Workload Calculator, FitFuel, AI & UI Design, and Space Settlement Design are visible, and verify the UCL live-simulator, Relay live-project, Workload archive, Figma, publication, ISSDC official-site, and winning-certificate buttons are present
 3. Click the "Résumé" link in the header
 

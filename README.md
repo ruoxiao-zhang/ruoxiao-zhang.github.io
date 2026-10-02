@@ -10,7 +10,7 @@ I’m Ruoxiao (Roxanna) Zhang, an Honours Applied Mathematics co-op student at t
 
 - **UCL Simulator** — a bilingual 2026/27 Champions League forecasting simulator using Elo-style ratings, a Poisson goal model, market data, and 50,000-season Monte Carlo simulation.
 - **Relay Resale Ledger** — a bilingual luxury-resale analytics product with a Python data pipeline, web scraping, historical price tracking, anomaly checks, and interactive visualization.
-- **Waterloo Workload Calculator** — a student planning interface combining schedule data, Dijkstra-based routing, GraphQL metrics, and workload visualization.
+- **Waterloo Workload Calculator** — a team project turning schedule, routing and crowdsourced data into a planning dashboard; I built the Streamlit front end.
 
 ## Tech
 
@@ -34,7 +34,7 @@ npm run build
 
 ## Live site
 
-https://roxanna-zhang-portfolio-hde82b.v2.appdeploy.ai/
+https://ruoxiao-zhang.github.io/
 
 ---
 
