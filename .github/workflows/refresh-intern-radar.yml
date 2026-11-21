@@ -1,0 +1,64 @@
+name: Refresh Intern Radar
+on:
+  schedule:
+    - cron: '17 1 * * *' # about 10:17 KST, subject to GitHub delays
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/refresh-intern-radar.yml'
+      - '.radar-seed/**'
+      - 'scripts/update_intern_radar.py'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Bootstrap initial website and scraper
+        shell: bash
+        run: |
+          if [ ! -f scripts/update_intern_radar.py ] || [ ! -f public/intern-radar/index.html ]; then
+            tar -xJf .radar-seed/source.tar.xz
+            git rm -r .radar-seed
+          fi
+      - name: Collect Summer 2027 positions
+        run: python scripts/update_intern_radar.py
+      - name: Commit source and refreshed dataset
+        shell: bash
+        run: |
+          git add -A public/intern-radar scripts/update_intern_radar.py
+          if ! git diff --cached --quiet; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'chore(radar): refresh 2027 internship positions'
+            git push
+          fi
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build GitHub Pages
+        run: |
+          npm install
+          npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: prepare
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-11-21T15:13:30.607Z",
+  "term": "Summer 2027",
+  "total": 1,
+  "method": "Initial employer-verified seed; daily automated refresh pending",
+  "sources": [
+    {
+      "name": "Steel official Ashby",
+      "ok": true,
+      "count": 1
+    }
+  ],
+  "jobs": [
+    {
+      "id": "steel-summer2027-5fbdbebf",
+      "company": "Steel",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "Toronto, ON, Canada",
+      "country": "Canada",
+      "category": "AI & ML",
+      "url": "https://jobs.ashbyhq.com/steel/5fbdbebf-ddb2-4264-a941-3ab6d475208c/",
+      "source": "Steel (official Ashby)",
+      "source_type": "employer job board",
+      "source_url": "https://jobs.ashbyhq.com/steel",
+      "score": 95,
+      "why": [
+        "Agent workflows",
+        "Canada co-op friendly",
+        "Engineering automation"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (title)",
+      "status": "employer-listed"
+    }
+  ]
+}
