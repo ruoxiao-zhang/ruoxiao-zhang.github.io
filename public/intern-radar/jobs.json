@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:14:25+00:00",
+  "generated_at": "2026-11-22T07:59:27+00:00",
   "term": "Summer 2027",
   "total": 293,
   "method": "Aggregated job leads, not confirmation that applications are open",
@@ -7,7 +7,7 @@
     {
       "name": "Simplify / Pitt CSC",
       "ok": true,
-      "count": 807,
+      "count": 811,
       "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/README.md"
     },
     {
@@ -113,30 +113,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "c46b513746db6da2",
-      "company": "William Blair",
-      "title": "Agentic AI Development Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://www.williamblair.com/Careers/job-description?gh_jid=5242282007&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 86,
-      "why": [
-        "Agent workflows",
-        "Applied AI"
-      ],
-      "flags": [],
-      "age_days": null,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "22928dade4bde7ec",
@@ -159,7 +136,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e7d9336ef3e1155e",
@@ -183,31 +160,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "581eeff4e3b28bbe",
-      "company": "Verisk",
-      "title": "Data Science/AI Intern",
-      "location": "Lehi, UT",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 85,
-      "why": [
-        "Applied AI",
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 7,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b3c35124a9f7cc7d",
@@ -227,11 +180,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 22,
+      "age_days": 23,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3786077e1def9a0b",
@@ -251,11 +204,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 3,
+      "age_days": 4,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d512e1c3cc13c740",
@@ -275,11 +228,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 3,
+      "age_days": 4,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "742a4b4146942d05",
@@ -299,11 +252,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "63499001559a8107",
@@ -327,7 +280,30 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "581eeff4e3b28bbe",
+      "company": "Verisk",
+      "title": "Data Science/AI Intern",
+      "location": "Lehi, UT",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 78,
+      "why": [
+        "Applied AI",
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": 8,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9e528879075889f8",
@@ -346,11 +322,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 10,
+      "age_days": 11,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "c4d818efa368cfe1",
@@ -369,11 +345,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 24,
+      "age_days": 25,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "80831ab11655ec89",
@@ -392,11 +368,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 25,
+      "age_days": 26,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4521fc5fdb5434e1",
@@ -419,7 +395,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "faff81e56a941933",
@@ -442,7 +418,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "746b3e32e2595d88",
@@ -461,11 +437,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 8,
+      "age_days": 9,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "12f9310e559394ba",
@@ -484,11 +460,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "66cd99d64945dd57",
@@ -507,11 +483,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "de5d442cd31c76be",
@@ -534,7 +510,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f1518e6ff1aeea5e",
@@ -553,11 +529,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 17,
+      "age_days": 18,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "69b9326e40f3eddd",
@@ -576,11 +552,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "568f374ea5c0ca39",
@@ -599,11 +575,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 22,
+      "age_days": 23,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "70cdf3462deff72a",
@@ -622,11 +598,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 22,
+      "age_days": 23,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2a9ef627ca9e664b",
@@ -645,11 +621,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 29,
+      "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d0e4ac79cf665a02",
@@ -668,34 +644,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 29,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "bf8a37295497d77a",
-      "company": "Qualcomm",
-      "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
-      "location": "Markham, ON, Canada",
-      "country": "Canada",
-      "category": "AI & ML",
-      "url": "https://qualcomm.eightfold.ai/careers/job/446721661830?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 75,
-      "why": [
-        "Applied AI",
-        "Canada co-op friendly"
-      ],
-      "flags": [],
       "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a53cfe78902e4e6b",
@@ -718,7 +671,30 @@
       "term": "Summer 2027 (title)",
       "status": "employer-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "bf8a37295497d77a",
+      "company": "Qualcomm",
+      "title": "Edge AI and Display Hardware Architecture Development Engineering Intern - Interim Engineering Intern - Systems",
+      "location": "Markham, ON, Canada",
+      "country": "Canada",
+      "category": "AI & ML",
+      "url": "https://qualcomm.eightfold.ai/careers/job/446721661830?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 75,
+      "why": [
+        "Applied AI",
+        "Canada co-op friendly"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7c0eb8c1fedfd967",
@@ -741,7 +717,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9b8382f6786fcc65",
@@ -764,7 +740,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e7c5f0ee28008e19",
@@ -787,7 +763,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "af9ba450abd40fb6",
@@ -810,7 +786,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e82b977a214639c1",
@@ -833,7 +809,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "97b986ecc3241573",
@@ -856,7 +832,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b3abb6050c2ef69e",
@@ -879,7 +855,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2e3c1ed5e9657577",
@@ -898,11 +874,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7f63576b7b94ec5e",
@@ -921,11 +897,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "58ddd03371828479",
@@ -944,11 +920,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "41b65746aafe56bc",
@@ -967,11 +943,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4bfa439a9a8a06dc",
@@ -990,11 +966,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "088b20435f50ffb4",
@@ -1013,11 +989,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "cbeee93eb4b6f4fb",
@@ -1036,11 +1012,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bda20f3f3ff84761",
@@ -1059,11 +1035,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "498792f491be5566",
@@ -1082,11 +1058,34 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "39ba1621d5d252ef",
+      "company": "Woodward Governor",
+      "title": "AI Intern",
+      "location": "Niles, IL / Fort Collins, CO",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 74,
+      "why": [
+        "Applied AI",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0757bc0bc47c42b2",
@@ -1105,11 +1104,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "513f6cc4da5f769a",
@@ -1128,11 +1127,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 3,
+      "age_days": 4,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "da3f8c0fe782cc70",
@@ -1155,7 +1154,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "13dd13a7339e69bc",
@@ -1174,11 +1173,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 5,
+      "age_days": 6,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ba871cc53646b1fe",
@@ -1201,7 +1200,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5d577fe1ecd92144",
@@ -1224,7 +1223,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "17d2321a8216fbe0",
@@ -1247,7 +1246,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e0868c88bb7a97c6",
@@ -1270,7 +1269,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "22889dec73bb8e02",
@@ -1293,7 +1292,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3474c755de1592e6",
@@ -1312,11 +1311,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0239da5f13c1c671",
@@ -1335,11 +1334,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d1f0c4afb0964381",
@@ -1358,11 +1357,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "30890224c905cd5a",
@@ -1381,11 +1380,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0ae8d229ea9f4735",
@@ -1407,7 +1406,7 @@
       "term": "Summer 2027 (title)",
       "status": "employer-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4202bbf9c818d923",
@@ -1426,11 +1425,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4f2d4f325eccfc35",
@@ -1449,11 +1448,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e70337fd260fc6bf",
@@ -1472,11 +1471,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a6e4147e4d956895",
@@ -1495,11 +1494,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "35e0a048ea6b7f02",
@@ -1518,11 +1517,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3d01b3ccbe3f6682",
@@ -1541,11 +1540,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b27a5e28d6b9c3c7",
@@ -1564,11 +1563,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8ffb8351683f5492",
@@ -1587,11 +1586,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "db74f31c33a16470",
@@ -1610,11 +1609,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "daced253a6991d00",
@@ -1633,11 +1632,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "59c99a6bd3d907ac",
@@ -1656,11 +1655,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "03f3589845290460",
@@ -1679,11 +1678,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1651fded42d7f2ed",
@@ -1702,126 +1701,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "9877daa7f00ad326",
-      "company": "Atlantic Health System",
-      "title": "Pharmacy Intern - Data Analytics",
-      "location": "Morristown, NJ",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 70,
-      "why": [
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
       "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "a03cd2b1c6e9da49",
-      "company": "Honeywell Aerospace",
-      "title": "Information Systems Data Science Intern - IT",
-      "location": "United States",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 70,
-      "why": [
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 1,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "6b05cd720b976640",
-      "company": "Honeywell Aerospace",
-      "title": "Information Systems Data Science Intern",
-      "location": "United States",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 70,
-      "why": [
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 1,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "86724431286b1be3",
-      "company": "Publicis Groupe",
-      "title": "Identity Analytics Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 70,
-      "why": [
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 1,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "8b02178ef7e2c052",
-      "company": "Publicis Groupe",
-      "title": "Identity Analytics Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 70,
-      "why": [
-        "Math & data",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 1,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "dc9301d284485f61",
@@ -1844,7 +1728,145 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "4564bd88acc83471",
+      "company": "Advance Auto Parts",
+      "title": "Data Science Intern",
+      "location": "Raleigh, NC",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://advanceauto.wd5.myworkdayjobs.com/advanceexternalcareers/job/Raleigh-NC/Data-Science-Intern_R-0620261-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "9877daa7f00ad326",
+      "company": "Atlantic Health System",
+      "title": "Pharmacy Intern - Data Analytics",
+      "location": "Morristown, NJ",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "a03cd2b1c6e9da49",
+      "company": "Honeywell Aerospace",
+      "title": "Information Systems Data Science Intern - IT",
+      "location": "United States",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120471?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "6b05cd720b976640",
+      "company": "Honeywell Aerospace",
+      "title": "Information Systems Data Science Intern",
+      "location": "United States",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120238?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "86724431286b1be3",
+      "company": "Publicis Groupe",
+      "title": "Identity Analytics Intern",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://publicisgroupe.jibeapply.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "8b02178ef7e2c052",
+      "company": "Publicis Groupe",
+      "title": "Identity Analytics Intern",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://careers.publicisgroupe.com/jobs/182970?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6b9fa1a9ff6d715a",
@@ -1863,11 +1885,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9d35b79e22f8bccf",
@@ -1886,11 +1908,34 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "ba06e28b93040dcd",
+      "company": "TransUnion",
+      "title": "Data Science and Analytics Intern",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://transunion.wd5.myworkdayjobs.com/en-US/TransUnion/job/Chicago-Illinois/Data-Science---Analytics-Internship---Summer-2027_19043450?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 70,
+      "why": [
+        "Math & data",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 3,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4893f8791369d191",
@@ -1909,11 +1954,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 3,
+      "age_days": 4,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bb9c76d443410dc8",
@@ -1932,11 +1977,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3db53471ad1898b9",
@@ -1955,11 +2000,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9f65b18f5531a7b6",
@@ -1978,11 +2023,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7e1343731ae2648a",
@@ -2005,7 +2050,7 @@
       "term": "Summer 2027 (title)",
       "status": "employer-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f5240c3b5c9e2bcf",
@@ -2024,11 +2069,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b59c983024c3d479",
@@ -2047,11 +2092,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0694f0fbb9773125",
@@ -2070,11 +2115,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e3b93c9ae8b69054",
@@ -2093,11 +2138,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 1,
+      "age_days": 2,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8705ab846c447e82",
@@ -2116,11 +2161,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ed036e5d266a0c78",
@@ -2139,11 +2184,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "df6fa0331c0f7aa0",
@@ -2162,11 +2207,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e52a7eae85245649",
@@ -2185,11 +2230,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "026abc9b17e9a677",
@@ -2208,11 +2253,34 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "98d151dbb5532ca5",
+      "company": "Blizzard Entertainment",
+      "title": "Data Platform Engineering Intern - Data Platform Engineering",
+      "location": "Irvine, CA",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Engineering automation",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 6,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "87f0ecc0246a77b0",
@@ -2230,11 +2298,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 8,
+      "age_days": 9,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "dca65d3a4c54031d",
@@ -2253,11 +2321,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "25d86c9ef3b3a645",
@@ -2275,11 +2343,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6288a9a55bd92681",
@@ -2297,77 +2365,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 9,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "9d0b19fce7ebc5bb",
-      "company": "DwyerOmega",
-      "title": "Applied AI Intern",
-      "location": "Remote in USA",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
       "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "0b1dff43ef47219e",
-      "company": "General Dynamics Information Technology",
-      "title": "AI/ML Business Intelligence Development Intern",
-      "location": "Bossier City, LA",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
-      "age_days": 10,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "bb13f099cdfc3d3c",
-      "company": "International",
-      "title": "Artificial Intelligence/Machine Learning Intern",
-      "location": "Lisle, IL",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
-      "age_days": 10,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b2f918f9abd9d4e1",
@@ -2389,7 +2391,73 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "9d0b19fce7ebc5bb",
+      "company": "DwyerOmega",
+      "title": "Applied AI Intern",
+      "location": "Remote in USA",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4650662?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": 11,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "0b1dff43ef47219e",
+      "company": "General Dynamics Information Technology",
+      "title": "AI/ML Business Intelligence Development Intern",
+      "location": "Bossier City, LA",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": 11,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "bb13f099cdfc3d3c",
+      "company": "International",
+      "title": "Artificial Intelligence/Machine Learning Intern",
+      "location": "Lisle, IL",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://careers.international.com/jobs/60456?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": 11,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "44e6716e18d1925b",
@@ -2407,55 +2475,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "e924e5df3e426e9e",
-      "company": "Shield AI",
-      "title": "Software Engineer Intern",
-      "location": "San Diego, CA",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
-      "age_days": 11,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "c234f20d1c271630",
-      "company": "Trilogy Health Services",
-      "title": "Information Systems Developer of AI and Automated Solutions Intern",
-      "location": "Louisville, KY",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
-      "age_days": 11,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3143cf77fba49637",
@@ -2477,7 +2501,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6d0714a1986a0c9b",
@@ -2499,7 +2523,51 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "e924e5df3e426e9e",
+      "company": "Shield AI",
+      "title": "Software Engineer Intern",
+      "location": "San Diego, CA",
+      "country": "United States",
+      "category": "Software",
+      "url": "https://jobs.ashbyhq.com/shield/db04c516-d21a-449c-8bfd-1cf830eafb5a/application?embed=true&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": 12,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "c234f20d1c271630",
+      "company": "Trilogy Health Services",
+      "title": "Information Systems Developer of AI and Automated Solutions Intern",
+      "location": "Louisville, KY",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://jobs.trilogyhs.com/jobs/214624?icims=1&lang=en-us&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": 12,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8ca4d6bef1d6c339",
@@ -2517,11 +2585,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 12,
+      "age_days": 13,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "97c70d993dc7b92d",
@@ -2539,11 +2607,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 14,
+      "age_days": 15,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d79e70357860191a",
@@ -2561,11 +2629,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 14,
+      "age_days": 15,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f30fb29232e50833",
@@ -2583,11 +2651,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f19b990cc9423b76",
@@ -2605,11 +2673,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a80a8faa1a3d828b",
@@ -2627,11 +2695,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5afc538aad7afce2",
@@ -2649,11 +2717,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "80ec80e8cfe73936",
@@ -2671,11 +2739,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4208508d8c69ed01",
@@ -2693,11 +2761,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d10873f4add16ec8",
@@ -2715,11 +2783,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d4b83ae92ee7efd2",
@@ -2737,11 +2805,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 19,
+      "age_days": 20,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "77bb96625d740676",
@@ -2759,11 +2827,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 21,
+      "age_days": 22,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "79a6799b793c4e72",
@@ -2781,11 +2849,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 22,
+      "age_days": 23,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "21f170c7ca23bafe",
@@ -2803,11 +2871,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1422ea7b29e51484",
@@ -2825,11 +2893,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 24,
+      "age_days": 25,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "fb934ec4d915cc61",
@@ -2847,11 +2915,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 25,
+      "age_days": 26,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9a11b087ab99403e",
@@ -2869,11 +2937,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 25,
+      "age_days": 26,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a0dc85dc47e46c9a",
@@ -2891,11 +2959,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 26,
+      "age_days": 27,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "115ba949e925ad79",
@@ -2913,11 +2981,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 28,
+      "age_days": 29,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "dc1172485107d212",
@@ -2935,33 +3003,11 @@
         "Applied AI"
       ],
       "flags": [],
-      "age_days": 29,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "3937dfb53ccfc71d",
-      "company": "Aon",
-      "title": "IT / AI Engineer Intern",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "category": "AI & ML",
-      "url": "https://jobs.aon.com/jobs/110099?icims=1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 67,
-      "why": [
-        "Applied AI"
-      ],
-      "flags": [],
       "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a20fa7494c4a7139",
@@ -2983,7 +3029,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "99a14c257762cea7",
@@ -3005,7 +3051,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a44c29b7ac2802c5",
@@ -3027,7 +3073,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a7b8daa93af60d64",
@@ -3049,7 +3095,29 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "3937dfb53ccfc71d",
+      "company": "Aon",
+      "title": "IT / AI Engineer Intern",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "category": "AI & ML",
+      "url": "https://jobs.aon.com/jobs/110099?icims=1&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 67,
+      "why": [
+        "Applied AI"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "84558aca800df4a3",
@@ -3071,7 +3139,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0054448ea6264d08",
@@ -3093,7 +3161,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ddc981e17de80aa5",
@@ -3115,7 +3183,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "76125b488a7c9bea",
@@ -3137,7 +3205,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e3bcd631b3609613",
@@ -3159,7 +3227,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "db5b2b08cf7dd70e",
@@ -3181,7 +3249,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3b434cf230a98fa7",
@@ -3203,7 +3271,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4a390c2af1d3efc5",
@@ -3225,7 +3293,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "fd3d712ec83ac65a",
@@ -3247,7 +3315,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "62625b2a14016f04",
@@ -3269,7 +3337,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5d00ecb152e2e544",
@@ -3291,7 +3359,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8d66cd5315317dd7",
@@ -3313,7 +3381,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "dd7a4f3f976e186e",
@@ -3335,7 +3403,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "01597ed9321caece",
@@ -3357,7 +3425,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5b6ca182619d7f8c",
@@ -3379,7 +3447,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1dd4464953f5d261",
@@ -3401,7 +3469,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bd6d7b4410530d40",
@@ -3423,7 +3491,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "31e4052774ba291a",
@@ -3445,7 +3513,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "377f0ac55dad9cec",
@@ -3467,7 +3535,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e98ed0e1a344f1c6",
@@ -3489,7 +3557,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "42678ca03ebaf67d",
@@ -3511,7 +3579,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "18265abd1c4fa66a",
@@ -3533,7 +3601,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b12c2776b2e84f80",
@@ -3555,7 +3623,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "02861c78d462f9fe",
@@ -3577,7 +3645,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1d155cba7fba6bb8",
@@ -3599,7 +3667,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "450c394209eddb31",
@@ -3621,7 +3689,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6198f365f33ab9a3",
@@ -3643,7 +3711,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d2be93c38661c435",
@@ -3665,7 +3733,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d3dd7171896aaa23",
@@ -3687,7 +3755,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "09a203da396dd10a",
@@ -3706,11 +3774,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
+      "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6c0d0c4d7295bfac",
@@ -3733,7 +3801,30 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "80b11f17ec4af7cc",
+      "company": "AriensCo",
+      "title": "Product Management Intern",
+      "location": "Brillion, WI",
+      "country": "United States",
+      "category": "Product",
+      "url": "https://arienscompany.wd5.myworkdayjobs.com/external/job/WI---Brillion/Product-Management-Intern_R-04305?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 66,
+      "why": [
+        "Product building",
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 2,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "125c8f974161a911",
@@ -3752,11 +3843,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "427574d57f63e43f",
@@ -3775,11 +3866,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "800580cd25910f52",
@@ -3798,11 +3889,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9bdd7384ca114254",
@@ -3821,11 +3912,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 3,
+      "age_days": 4,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "356d8a99d06ec01a",
@@ -3844,11 +3935,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 4,
+      "age_days": 5,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "844fdacdcde403e1",
@@ -3871,96 +3962,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "ac10e3b67814a6e7",
-      "company": "Koch Industries",
-      "title": "Product Management Intern - Aerospace & Defense Solutions",
-      "location": "Georgetown, TX",
-      "country": "United States",
-      "category": "Product",
-      "url": "https://koch.avature.net/en_US/careers/JobDetail/197821?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 66,
-      "why": [
-        "Product building",
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 7,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "af5adfdec96d7970",
-      "company": "Vertex Pharmaceuticals",
-      "title": "Data Analytics Intern - OSD Process Data Analytics",
-      "location": "Boston, MA",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
-      "age_days": 8,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "c36fab970e1cb222",
-      "company": "Vertex Pharmaceuticals",
-      "title": "Data Analytics Intern - OSD Process Data Analytics",
-      "location": "Boston, MA",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
-      "age_days": 8,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "3c933e7fb2e1e709",
-      "company": "Environmental Defense Fund",
-      "title": "Consumer Energy Analytics Intern",
-      "location": "Remote in USA / St. Petersburg, FL",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
-      "age_days": 9,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ec2087f471f31435",
@@ -3982,7 +3984,73 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "af5adfdec96d7970",
+      "company": "Vertex Pharmaceuticals",
+      "title": "Data Analytics Intern - OSD Process Data Analytics",
+      "location": "Boston, MA",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_intern/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312-2?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": 9,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "c36fab970e1cb222",
+      "company": "Vertex Pharmaceuticals",
+      "title": "Data Analytics Intern - OSD Process Data Analytics",
+      "location": "Boston, MA",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--OSD-Process-Data-Analytics_REQ-31312?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": 9,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "3c933e7fb2e1e709",
+      "company": "Environmental Defense Fund",
+      "title": "Consumer Energy Analytics Intern",
+      "location": "Remote in USA / St. Petersburg, FL",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://osv-edf.wd5.myworkdayjobs.com/Confidential/job/Remote---US-Home/Florida-Consumer-Energy-Analytics-Intern_REQ-002752?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": 10,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e77aa2ff3e0496fb",
@@ -4000,11 +4068,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4766c8517356835e",
@@ -4022,11 +4090,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 10,
+      "age_days": 11,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "487cf53b9ec51262",
@@ -4044,11 +4112,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ea1c9018ceb9c1d9",
@@ -4066,11 +4134,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e4d7b1905e42b179",
@@ -4088,11 +4156,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2f37778d24a158a6",
@@ -4110,11 +4178,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 12,
+      "age_days": 13,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "14f2133a96d84706",
@@ -4132,11 +4200,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7d7ef8b9ec71ea0b",
@@ -4154,11 +4222,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bc83231afc005234",
@@ -4176,11 +4244,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f7e23a68798e7bc2",
@@ -4198,11 +4266,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b7c4f749005c93f7",
@@ -4220,11 +4288,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 17,
+      "age_days": 18,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a22cd8d251dc89a8",
@@ -4242,11 +4310,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "fe6ba7fe0914a446",
@@ -4268,7 +4336,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "911a800f2a6a6bcd",
@@ -4286,11 +4354,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 19,
+      "age_days": 20,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9cafbe26db4eff0d",
@@ -4308,11 +4376,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 19,
+      "age_days": 20,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f1bf012fb43a3621",
@@ -4330,33 +4398,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 21,
+      "age_days": 22,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "8cf363bc910a84ab",
-      "company": "Sallie Mae",
-      "title": "Data Science and Engineering Intern",
-      "location": "Newark, DE / Arlington County, Arlington, VA",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
-      "age_days": 23,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ddd815f121770ec2",
@@ -4378,7 +4424,29 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "8cf363bc910a84ab",
+      "company": "Sallie Mae",
+      "title": "Data Science and Engineering Intern",
+      "location": "Newark, DE / Arlington County, Arlington, VA",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://sallie-mae.wd5.myworkdayjobs.com/Careers/job/Newark-DE/Data-Science---Engineering-Intern_R26_000659?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": 24,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a022154d449f91f6",
@@ -4396,11 +4464,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 24,
+      "age_days": 25,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "c2e23e678ac5b8bb",
@@ -4418,11 +4486,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 24,
+      "age_days": 25,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4b365603171ac246",
@@ -4440,11 +4508,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 28,
+      "age_days": 29,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4c947d4da09e27ce",
@@ -4462,11 +4530,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 28,
+      "age_days": 29,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "01b78ee245ef961f",
@@ -4484,11 +4552,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 28,
+      "age_days": 29,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8c2cb1db4ce5e7cd",
@@ -4506,11 +4574,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 29,
+      "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5c544256e31aa747",
@@ -4528,55 +4596,11 @@
         "Math & data"
       ],
       "flags": [],
-      "age_days": 29,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "0cc46402d60a229a",
-      "company": "KION Group",
-      "title": "Software Analytics Co-op",
-      "location": "Grand Rapids, MI",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
       "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "2dbab91671cfe696",
-      "company": "KION Group",
-      "title": "Software Analytics Co-op",
-      "location": "Grand Rapids, MI",
-      "country": "United States",
-      "category": "Data & Analytics",
-      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 63,
-      "why": [
-        "Math & data"
-      ],
-      "flags": [],
-      "age_days": 30,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "67bffdd85aac8e95",
@@ -4598,7 +4622,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d07b60cfb83c5481",
@@ -4620,7 +4644,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8747dcd6194634e5",
@@ -4642,7 +4666,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "da4761147dcafe32",
@@ -4664,7 +4688,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "69469598fae29107",
@@ -4686,7 +4710,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "903463bcb70593ec",
@@ -4708,7 +4732,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "fc42825ecd8802a8",
@@ -4730,7 +4754,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "90b20bdffba08597",
@@ -4752,7 +4776,51 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "0cc46402d60a229a",
+      "company": "KION Group",
+      "title": "Software Analytics Co-op",
+      "location": "Grand Rapids, MI",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "2dbab91671cfe696",
+      "company": "KION Group",
+      "title": "Software Analytics Co-op",
+      "location": "Grand Rapids, MI",
+      "country": "United States",
+      "category": "Data & Analytics",
+      "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 63,
+      "why": [
+        "Math & data"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f3271d9d983f81d7",
@@ -4774,7 +4842,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9327c877033fd02b",
@@ -4796,7 +4864,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2fedc768e25ac261",
@@ -4818,7 +4886,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "70a6516572c61950",
@@ -4840,7 +4908,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "84ea0461f1c829e1",
@@ -4862,7 +4930,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "457abd9adf8a6a76",
@@ -4884,7 +4952,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3ae84367ad3a439c",
@@ -4906,7 +4974,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "35cc2c3ae5d78f40",
@@ -4928,7 +4996,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9916b835f21b2f5c",
@@ -4950,7 +5018,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "79b70437b8fdabdb",
@@ -4972,7 +5040,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "fc29510a78cc5248",
@@ -4994,7 +5062,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7872f95c67e23fd6",
@@ -5016,7 +5084,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e33a22052243bf83",
@@ -5038,7 +5106,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f5acf17ca283c84d",
@@ -5060,7 +5128,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8d22db9866f9fe66",
@@ -5082,7 +5150,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "df568b8ff0009936",
@@ -5104,7 +5172,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bbbc972d80e65813",
@@ -5126,7 +5194,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "08134535246eb8da",
@@ -5144,11 +5212,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 9,
+      "age_days": 10,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e3a1be615c2be495",
@@ -5166,11 +5234,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3cc504a02db74173",
@@ -5188,11 +5256,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3275669880a7cf3e",
@@ -5210,11 +5278,11 @@
         "Math & research"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "34e8f09c2aca2e01",
@@ -5236,7 +5304,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "eacd6fec5fa8ad54",
@@ -5258,7 +5326,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3cf6873a3b2bc68d",
@@ -5280,7 +5348,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "e35496f7e6dff66f",
@@ -5302,7 +5370,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "c1c3c6ddc6bf11c8",
@@ -5324,7 +5392,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f15af4c3fab1a241",
@@ -5346,7 +5414,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4080b4e3cef559e2",
@@ -5368,7 +5436,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9e7c6701b7d0290e",
@@ -5390,7 +5458,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "792e9ff978a239d9",
@@ -5412,7 +5480,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "7f48f33746427c6d",
@@ -5430,11 +5498,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0903b15b0792d31e",
@@ -5452,11 +5520,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 11,
+      "age_days": 12,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0d8db1512f01db93",
@@ -5474,11 +5542,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 14,
+      "age_days": 15,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f16742a3b9b043d5",
@@ -5496,11 +5564,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 14,
+      "age_days": 15,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "355eb0bf5ce9da35",
@@ -5518,11 +5586,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6ae4b38c23408266",
@@ -5540,11 +5608,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1287c2f6b900bce5",
@@ -5562,11 +5630,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 16,
+      "age_days": 17,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "bf8a4591857baf9d",
@@ -5584,11 +5652,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "09ed0a0436e8e31f",
@@ -5606,11 +5674,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 18,
+      "age_days": 19,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "a997dcc78cd300eb",
@@ -5628,11 +5696,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 22,
+      "age_days": 23,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "28dffb356ac24d7e",
@@ -5650,11 +5718,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "228bfbd12ba2879a",
@@ -5672,11 +5740,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2d522a99a96ce95e",
@@ -5694,11 +5762,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f9bb5ead314c300c",
@@ -5716,11 +5784,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d28c6836aafbdf62",
@@ -5738,11 +5806,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 23,
+      "age_days": 24,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d16a86244294a93a",
@@ -5760,11 +5828,11 @@
         "Engineering automation"
       ],
       "flags": [],
-      "age_days": 25,
+      "age_days": 26,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6f1be68eb9c2362b",
@@ -5782,11 +5850,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 26,
+      "age_days": 27,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "404708c958fa197c",
@@ -5804,11 +5872,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 29,
+      "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ae20b64307ef4bab",
@@ -5826,33 +5894,11 @@
         "Canada co-op friendly"
       ],
       "flags": [],
-      "age_days": 29,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "84c0a7de477704cc",
-      "company": "CVS Health",
-      "title": "Software Engineer Intern - Platform & Applications",
-      "location": "4 locationsDallas, TX / Scottsdale, AZ / Hartford, CT / Woonsocket, RI",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 60,
-      "why": [
-        "Engineering automation"
-      ],
-      "flags": [],
       "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5310d81f21b87e5c",
@@ -5874,7 +5920,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "0b4efd43c60e89d4",
@@ -5896,7 +5942,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "99891d3b7ca88394",
@@ -5918,7 +5964,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3191ed77109e2227",
@@ -5940,7 +5986,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8c71a0d3b9d3e58c",
@@ -5962,7 +6008,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "ff8cbaee1df1f96c",
@@ -5984,7 +6030,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "4cd0215ff43606fc",
@@ -6006,7 +6052,7 @@
       "term": "Summer 2027 (title)",
       "status": "employer-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "d12c88846d6e6268",
@@ -6028,7 +6074,29 @@
       "term": "Summer 2027 (title)",
       "status": "employer-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "84c0a7de477704cc",
+      "company": "CVS Health",
+      "title": "Software Engineer Intern - Platform & Applications",
+      "location": "4 locationsDallas, TX / Scottsdale, AZ / Hartford, CT / Woonsocket, RI",
+      "country": "United States",
+      "category": "Software",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 60,
+      "why": [
+        "Engineering automation"
+      ],
+      "flags": [],
+      "age_days": null,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "710d398f0977188f",
@@ -6050,7 +6118,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "5a9c616e756f64b7",
@@ -6072,7 +6140,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "6ba120c97f66d0ef",
@@ -6094,7 +6162,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b391bd811433ff38",
@@ -6116,7 +6184,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "17811ed231fc17ea",
@@ -6138,7 +6206,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "77524ca75992a646",
@@ -6160,7 +6228,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "b5cdea187cd3246a",
@@ -6182,7 +6250,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9d941575e65e0688",
@@ -6204,7 +6272,51 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "527e0fcac145eeaa",
+      "company": "Neros Technologies",
+      "title": "Firmware/Embedded Software Engineer Intern",
+      "location": "Torrance, CA",
+      "country": "United States",
+      "category": "Software",
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 59,
+      "why": [
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 0,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "89f4d743863ddf3f",
+      "company": "Neros Technologies",
+      "title": "Electrical Engineer Intern",
+      "location": "Torrance, CA",
+      "country": "United States",
+      "category": "Other Tech",
+      "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/5273149007?utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 59,
+      "why": [
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 0,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-22T07:59:27+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "8226009fc22cdcec",
@@ -6222,187 +6334,11 @@
         "New this week"
       ],
       "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "eb414cd9c863a833",
-      "company": "First Merchants Bank",
-      "title": "Treasury Management Product Intern",
-      "location": "Columbus, OH",
-      "country": "United States",
-      "category": "Other Tech",
-      "url": "https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "553ea9dae91f988c",
-      "company": "Jewelers Mutual Group",
-      "title": "Product Intern",
-      "location": "Neenah, WI",
-      "country": "United States",
-      "category": "Other Tech",
-      "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "6a7b685bb0c4ec35",
-      "company": "Mesirow",
-      "title": "Software Developer Intern - IT",
-      "location": "Chicago, IL",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "1027c74d5bb80516",
-      "company": "Ralliant",
-      "title": "Software Design Engineer Intern",
-      "location": "Beaverton, OR",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "da3d8c87bbb000b6",
-      "company": "Renesas Electronics",
-      "title": "Firmware Engineer Intern",
-      "location": "Austin, TX",
-      "country": "United States",
-      "category": "Other Tech",
-      "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555?utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "11d56c7446308c00",
-      "company": "Southwest Power Pool",
-      "title": "Operations Developer Intern",
-      "location": "Little Rock, AR",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://recruiting2.ultipro.com/SOU1052SPPI/JobBoard/bc99b5f0-ed6b-436e-b545-2196af0704de/OpportunityDetail?opportunityId=51168e8a-cd42-4169-9c50-0019367a9d83&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "08ae3658f668c18f",
-      "company": "iA",
-      "title": "Industrial Engineer Intern",
-      "location": "Johnson City, NY",
-      "country": "United States",
-      "category": "Other Tech",
-      "url": "https://workforcenow.adp.com/job?cid=93fdfc70-37a2-4cde-ba86-0da4925db4c8&jobId=9200936412681_1&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
-      "age_days": 0,
-      "term": "Summer 2027 (community-listed)",
-      "status": "community-listed",
-      "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
-    },
-    {
-      "id": "1b990d678dcd1b19",
-      "company": "Amperity",
-      "title": "Software Development Engineer Intern",
-      "location": "Seattle, WA",
-      "country": "United States",
-      "category": "Software",
-      "url": "https://amperity.com/careers?gh_jid=8393990#openpositions&utm_source=Simplify&ref=Simplify",
-      "source": "Simplify / Pitt CSC",
-      "source_type": "community list",
-      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "score": 59,
-      "why": [
-        "New this week"
-      ],
-      "flags": [],
       "age_days": 1,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "3ec0367185bcf75c",
@@ -6424,7 +6360,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "870baf84fbf6cea6",
@@ -6446,7 +6382,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "2f79701272b286ff",
@@ -6468,7 +6404,73 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "eb414cd9c863a833",
+      "company": "First Merchants Bank",
+      "title": "Treasury Management Product Intern",
+      "location": "Columbus, OH",
+      "country": "United States",
+      "category": "Other Tech",
+      "url": "https://recruiting.ultipro.com/FIR1024FRME/JobBoard/d8ba2a8e-910f-42cf-9614-28c6f0ccdee4/OpportunityDetail?opportunityId=affbbaee-6ee2-45f7-a52b-7accf4458029&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 59,
+      "why": [
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 1,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "553ea9dae91f988c",
+      "company": "Jewelers Mutual Group",
+      "title": "Product Intern",
+      "location": "Neenah, WI",
+      "country": "United States",
+      "category": "Other Tech",
+      "url": "https://recruiting.ultipro.com/JEW1003JEWEL/JobBoard/1ddbeeda-8206-7c8c-a849-dd0e865383de/OpportunityDetail?opportunityId=73e636fd-4bf6-45be-9b83-3f5d3a9315ea&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 59,
+      "why": [
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 1,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
+    },
+    {
+      "id": "6a7b685bb0c4ec35",
+      "company": "Mesirow",
+      "title": "Software Developer Intern - IT",
+      "location": "Chicago, IL",
+      "country": "United States",
+      "category": "Software",
+      "url": "https://recruiting2.ultipro.com/mes1003mfac/JobBoard/69451223-cdce-4faf-9407-23a2cd5ac83b/OpportunityDetail?opportunityId=fff73393-2657-4159-86d3-5a04f5767214&utm_source=Simplify&ref=Simplify",
+      "source": "Simplify / Pitt CSC",
+      "source_type": "community list",
+      "source_url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+      "score": 59,
+      "why": [
+        "New this week"
+      ],
+      "flags": [],
+      "age_days": 1,
+      "term": "Summer 2027 (community-listed)",
+      "status": "community-listed",
+      "first_seen": "2026-11-21T15:14:25+00:00",
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "580a80c6c3f4714a",
@@ -6488,7 +6490,7 @@
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f5a48f80f4c9c08a",
@@ -6509,11 +6511,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 17,
+      "age_days": 18,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "f33812ef51421fb0",
@@ -6535,11 +6537,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 2,
+      "age_days": 3,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "c9d74626f6b91213",
@@ -6560,11 +6562,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 29,
+      "age_days": 30,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "9f261be73a1455e1",
@@ -6585,11 +6587,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "580391db5bd858c9",
@@ -6610,11 +6612,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 15,
+      "age_days": 16,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "723d5666d2df567c",
@@ -6634,11 +6636,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     },
     {
       "id": "1eebbdfd44dee084",
@@ -6658,11 +6660,11 @@
       "flags": [
         "graduate degree"
       ],
-      "age_days": 12,
+      "age_days": 13,
       "term": "Summer 2027 (community-listed)",
       "status": "community-listed",
       "first_seen": "2026-11-21T15:14:25+00:00",
-      "last_seen": "2026-11-21T15:14:25+00:00"
+      "last_seen": "2026-11-22T07:59:27+00:00"
     }
   ]
 }
